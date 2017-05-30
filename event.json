@@ -1,5 +1,7 @@
 {
-  "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+  "pathParameters": {
+    "id": "fceb51e0-4575-11e7-a6eb-cf9092032672"
+  },
   "requestContext": {
     "authorizer": {
       "claims": {
